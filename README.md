@@ -14,6 +14,10 @@ Precision, Recall ve F1-Score değerleri ekte paylaşılan ekran görüntülerin
 Bu proje, MIT Lisansı altında lisanslanmıştır.
 
 
+![output1 1](https://github.com/Ramazanplt/SMS-Spam-Detection/assets/90903738/d759430e-9ef3-41ef-bab2-74604f3aec3e)
+![output1 2](https://github.com/Ramazanplt/SMS-Spam-Detection/assets/90903738/85ba1cf3-5cc7-4ae4-a6ef-b51ed6ac4359)
+![output1 3](https://github.com/Ramazanplt/SMS-Spam-Detection/assets/90903738/4b2e7d4d-d943-47ad-a099-38df4bf2ddaf)
+
 
 
 
